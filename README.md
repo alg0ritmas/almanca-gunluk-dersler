@@ -10,4 +10,3 @@ Interaktif, mobil uyumlu Almanca öğrenme paneli.
 - 365 günlük ilerleme, seri takibi ve takvim
 
 Site, Cloudflare/Sites üzerinde buildless HTML olarak yayınlanır. Kaynakların kalıcı yedeği Sites kaynak deposundaki Git geçmişinde tutulur.
-
